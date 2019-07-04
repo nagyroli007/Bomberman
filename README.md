@@ -4,7 +4,7 @@ A simple bomberman game copy written in C++.<br/>
 I am using SDL2 and SDL_image libraries
 
 Running the game (on windows):<br/>
-Launch Bomberman (windows x86 build)/Bomberman.exe
+Launch Bomberman build (windows x86)/Bomberman.exe
 
 Bulding the game (on windows visual studio):<br/>
 Open the Bomberman.sln vs solution.<br/>
