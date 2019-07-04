@@ -1,6 +1,6 @@
 # Bomberman
 
-A simple bomberman game copy written in C++.
+A simple bomberman game copy written in C++.<br/>
 I am using SDL2 and SDL_image libraries
 
 Running the game (on windows):
